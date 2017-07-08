@@ -40,4 +40,3 @@ app.listen(app.get('port'), function(){
   console.log('Express запущен на http://localhost:' +
   app.get('port') + '; нажмите  Ctrl+C для завершения.');
 });
-wefgewfg
